@@ -26,11 +26,11 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master",
+      "url": "https://github.com/herohua/templates.docs.msft",
+      "branch": "fixed-version-1.24.2",
       "branch_mapping": {}
     }
   ],
   "need_generate_pdf_url_template": false,
-  "package_version": "1.26.1"
+  "package_version": "1.24.2"
 }
