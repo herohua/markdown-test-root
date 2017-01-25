@@ -6,7 +6,7 @@
     {
       "docset_name": "yih-markdown-test-root",
       "build_source_folder": ".",
-      "build_output_subfolder": "yih/markdown/test-root",
+      "build_output_subfolder": ".",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
